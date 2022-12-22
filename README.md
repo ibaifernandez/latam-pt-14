@@ -45,7 +45,7 @@ Deberíamos tener algo así como un «manual de marca».
 
 De entrada, cuanto menos, colores (para que todos usemos los mismos) y fuentes. A tal respecto, ya he creado un CSS donde he importado un par de Google Fonts y una paleta de colores extraída de una foto de Navidad. Concretamente, de esta:
 
-![¡Navidad!](/img/navidad.jpeg)
+![¡Navidad!](./img/navidad.jpeg)
 
 Y, por obvio, creo que lo mejor es que utilicemos **Bootstrap** en la medida de lo posible.
 
@@ -153,3 +153,9 @@ Yojan ya hizo «la parte de abajo» de la _landing_ de hace par de clases, lo qu
 5. Y por tanto yo, **Ibai**, haría el contenido.
 
 Podéis actualizar este archivo o crear otros similares con la extensión .md en el VS Code. Podéis encontrar todo sobre estos archivos de marcado [aquí](https://www.markdownguide.org/cheat-sheet/).
+
+## Recomendaciones finales
+
+Recordad que aquí la parte importante es que trabajemos en nuestras propias ramas que poder volcar a **`develop`** para más tarde pasar a **`main`**. Es decir, el flujo sería:
+
+> Mi rama > `develop` > `main`
