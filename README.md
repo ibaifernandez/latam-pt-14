@@ -16,7 +16,7 @@ Para la práctica de la que he hablado en la clase de hoy (21 de diciembre de 20
 
 He aquí un diagrama básico en la utilización de estas etiquetas
 
-![HTML Semántico](/img/semantics-html.gif)
+![HTML Semántico](./assets/img/html-semantico.gif)
 
 La he sacado de [W3Schools]https://www.w3schools.com/html/html5_semantic_elements.asp, donde tenéis una mayor referencia al respecto del HTML semántico.
 
@@ -86,6 +86,53 @@ De entrada, creo haber protegido ambas ramas de modo que:
 (Aquí, la verdá, creo que me vendría bien leerme la documentación respectiva porque por las indicaciones en pantalla no es que ayuden mucho 🤷🏽‍♂️).
 
 Creo que más o menos ya.
+
+### El `<head>``
+
+Todos los archivos html ya van con cierta información precargada; a saber:
+
+#### 1. Etiquetas meta
+
+Concretamente:
+
+- charset
+- http-equiv
+- viewport
+- Metainformación:
+  - title
+  - description
+  - keywords
+  - robots
+  - language
+  - author
+- Open Graph:
+  - og:title
+  - og:site_name
+  - og:url
+  - og:description
+  - og:type
+  - og:image
+- Twitter Card:
+  - twitter:card
+  - twitter:site
+  - twitter:title
+  - twitter:description
+  - twitter:image
+
+#### 2. Title y favicon
+
+```
+<title>Christmas Around the World</title>
+<link rel="icon" type="image/x-icon" href="#">
+```
+
+#### Hojas de estilo
+
+Ya han sido enlazadas las siguientes hojas de estilo:
+
+- Hoja de estilos específica (ubicada en ../assets/css/)
+- Bootstrap v5.1.3
+- Bootstrap Icons v.1.10.2
 
 ## La división del trabajo (2)
 
