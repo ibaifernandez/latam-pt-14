@@ -45,7 +45,7 @@ Deberíamos tener algo así como un «manual de marca».
 
 De entrada, cuanto menos, colores (para que todos usemos los mismos) y fuentes. A tal respecto, ya he creado un CSS donde he importado un par de Google Fonts y una paleta de colores extraída de una foto de Navidad. Concretamente, de esta:
 
-![¡Navidad!](./img/navidad.jpeg)
+![¡Navidad!](./assets/img/navidad.jpeg)
 
 Y, por obvio, creo que lo mejor es que utilicemos **Bootstrap** en la medida de lo posible.
 
