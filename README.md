@@ -72,6 +72,8 @@ Os daréis cuenta, además, que en el CSS he dejado ejemplos de uso de variables
 
 5. Un archivo README.md que es en el que estoy consignando la información que estáis leyendo.
 
+6. Un pequeño isotipo para que haga las veces de identidad visual del proyecto ubicado en en ../assets/img/logo junto a un archivo —logo.md— con la información pertinente al respecto de la necesidad de atribuirlo a su autor (se puede hacer en el footer, por ejemplo).
+
 ### El _repo_
 
 El _repo_ tiene una rama _primigenia_ que es **_main_**. Y una rama **\*develop**, que es con la que habríamos de ~~jugar~~ trabajar.
