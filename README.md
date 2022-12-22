@@ -4,7 +4,7 @@
 
 Buenas, compañeros.
 
-Para la práctica de la que he hablado en la clase de hoy (21 de diciembre de 2022) de hacer durante Navidad de forma colectiva, considero que deberíamos tratar de hacer una web «lo más semántica posible». Es decir, una web que utilice debidamente etiquetas semánticas tales que:
+Para la práctica de la que hablé en la clase del 21 de diciembre de 2022 —última antes del descanso navideño— de hacer durante Navidad de forma colectiva, considero que deberíamos tratar de hacer una web «lo más semántica posible». Es decir, una web que utilice debidamente etiquetas semánticas tales que:
 
 - `<article>`
 - `<aside>`
