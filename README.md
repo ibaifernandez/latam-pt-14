@@ -142,7 +142,7 @@ Yojan ya hizo «la parte de abajo» de la _landing_ de hace par de clases, lo qu
 
 1. La página de contacto vaya a a **Sol** (contact.html). Por obvio, no se trata _solo_ de hacer un formulario. Emula una alguna página de contacto que te guste, que invite a contactar y que proponga diferentes formas para hacerlo, por ejemplo. Recuerda que tu página no tiene que tener navegador ni footer porque eso lo hará otro miembro del equipo.
 
-2. **Sebastián** haga la página de inicio —pero ni el navegador ni el footer—. Eso sí, una cabecera bien atractiva y secciones que permitan navegar a las otras páginas. Puedes incluso crear mini secciones ¿—en un `aside`, por ejemplo? Que redirijan a lugares específicos de otras secciones utilizando la llamada a IDs en los href (`href="www.direccionweb.com/navidad.html#elID),
+2. **Sebastián** haga la página de inicio —pero ni el navegador ni el footer—. Eso sí, una cabecera bien atractiva y secciones que permitan navegar a las otras páginas. Puedes incluso crear mini secciones —¿en un `aside`, por ejemplo?— que redirijan a lugares específicos de otras secciones utilizando la llamada a IDs en los href (`href="www.direccionweb.com/navidad.html#elID),
 
 3. **Silvana** Navegador y footer. Plantéate, por ejemplo, incluir una lista de navegación a modo de mapa web. Imagina nuestra redes sociales o dispon un formulario de suscripción de los de nombre y correo electrónico. No has de hacer que funcione, solo que esté ahí. Quizás el logo del proyecto. O un submenú que llevare a páginas que no vamos a tener del tipo «Política de privacidad», «Términos y condiciones» y Preguntas Frecuentes Respondidas (FAQ). Ahí te toca practicar un poco de todo.
 
