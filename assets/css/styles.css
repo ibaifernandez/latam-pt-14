@@ -115,3 +115,42 @@ h1, h2, h3, h4, h5, h6 {
 .container-fluid {
     overflow: hidden;
 }
+/* Section, Article and Aside */
+.sidenav {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    overflow-x: hidden;
+  }
+  
+  .sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    display: block;
+  }
+  
+  .sidenav a:hover {
+    color: #f1f1f1;
+  }
+  
+  .main-content {
+    font-size: 28px;
+    text-align: justify;
+  }
+  
+  @media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+  }
+
+  @media (max-width: 767px) {
+    .hidden-mobile {
+      display: none;
+    }
+  }
